@@ -26,7 +26,7 @@ Understand how VPNs enhance online privacy and security by:
 ### 1. VPN Installation
 - Signed up on ProtonVPN.
 - Installed VPN client (GUI on Windows / CLI on Linux).
-- Connected to a VPN server (e.g., Netherlands).
+- Connected to a VPN server (https://github.com/Yuvarajklr/task-8/blob/b46d92d0841fe7af8e4d973a198d72981b232fbc/Screenshot_2025-07-05_15_21_13.png).
 
 ### 2. IP Address Check
 - Visited https://whatismyipaddress.com before and after connecting to VPN.
