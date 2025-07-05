@@ -37,6 +37,7 @@ Understand how VPNs enhance online privacy and security by:
 - Accessed a secure HTTPS website (e.g., https://example.com).
 - Confirmed presence of 🔒 padlock icon.
 - Clicked the padlock to verify connection encryption (TLS 1.3).
+- verify connection (https://github.com/Yuvarajklr/task-8/blob/7fb745c5067115202cff7d3fbb44286cadbd1b59/Screenshot_2025-07-05_15_35_45.png)
 
 ### 4. Speed Test Comparison
 Used https://fast.com to compare speeds:
