@@ -30,6 +30,7 @@ Understand how VPNs enhance online privacy and security by:
 
 ### 2. IP Address Check
 - Visited https://whatismyipaddress.com before and after connecting to VPN.
+- My IP with VPN (https://github.com/Yuvarajklr/task-8/blob/7c50fd335eb67d69a28b7918cf23542c6a6be96a/Screenshot_2025-07-05_15_01_36.png)
 - Confirmed IP address changed from original (India) to VPN location (Netherlands).
 
 ### 3. Traffic Encryption Verification
